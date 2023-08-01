@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Shadows+Into+Light&display=swap');
+
+
+
+
+.App{
+  min-height: 100vh;
+  display: flex;
+  /* background-image: url('https://cdn.wallpapersafari.com/71/80/25nOUq.jpg'); */
+  background-image: url('./chatmee.jpg');
+  background-size: cover;
+  background-position: center;
+  color: black;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(136, 136, 136, 0.281);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;}
+
+
+
+
+
+
+  .icon-button {
+    margin-bottom: 0px;
+    margin-right: 3px;
+    margin-top: 0px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    color: #333333;
+    background: white;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+  }
+  
+  .icon-button:hover {
+    cursor: pointer;
+  }
+  
+  .icon-button:active {
+    background: white;
+  }
+  
+  .icon-button__badge {
+    position: absolute;
+    top: -0px;
+    right: -0px;
+    width: 18px;
+    height: 18px;
+    background: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+  }
+  
