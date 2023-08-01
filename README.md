@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-<img width="1440" alt="Screenshot 2023-08-02 at 2 06 46 AM" src="https://drive.google.com/file/d/1rZ93LCtet68hIvMonR9X7wY1JvramoQd/view?usp=share_link">
+<img width="1440" alt="Screenshot 2023-08-02 at 2 06 46 AM" src="Chat_me.png">
 
 
 
